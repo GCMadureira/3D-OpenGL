@@ -1,0 +1,10 @@
+[package]
+name = "opengl"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bytemuck = "1"
+gl = "0.14.0"
+glfw = "0.62.0"
+rand = "0.10.2"
